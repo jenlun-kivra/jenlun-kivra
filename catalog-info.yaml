@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: jenlun-kivra
+  annotations:
+    github.com/project-slug: jenlun-kivra/jenlun-kivra
+spec:
+  type: other
+  lifecycle: unknown
+  owner: jenlun-kivra
