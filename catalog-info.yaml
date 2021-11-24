@@ -4,7 +4,7 @@ metadata:
   name: jenlun-kivra
   annotations:
     github.com/project-slug: jenlun-kivra/jenlun-kivra
-    backstage.io/techdocs-ref: ./docs/
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
